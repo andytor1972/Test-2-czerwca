@@ -1,3 +1,5 @@
 Linia w nowym pliku
 
-- by³a literówka w pierwszej linii
+Dodajê trzeci¹ liniê.
+
+Dodano pi¹t¹ liniê.
